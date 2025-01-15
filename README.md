@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mohamed Galal</h1>
-<h3 align="center">Software Engineer</h3>
+h1 align="center">Hi , I'm Mohamed Galal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Always+learning+new+things"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7md-galal&label=Profile%20views&color=0e75b6&style=flat" alt="m7md-galal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md-galal" alt="m7md-galal" /></a> </p>
+<br>
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<p align="left"> <a href="https://twitter.com/m7md_galal0" target="blank"><img src="https://img.shields.io/twitter/follow/m7md_galal0?logo=twitter&style=for-the-badge" alt="m7md_galal0" /></a> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **Backend Using asp.net core**
+<br><br>
 
-- 💬 Ask me about **asp.net**
+- :school: I am a `Student` at [Faculty of Computers & Informatics Science](http://www.fci.zu.edu.eg/faculty/default) at [Zagazig University](https://www.zu.edu.eg/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a Problem Solver at `Codeforces`, `Leetcode`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+<br>
 
-- 📫 How to reach me **mohamed754f@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
