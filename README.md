@@ -40,3 +40,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7md-galal&show_icons=true&locale=en" alt="m7md-galal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md-galal&" alt="m7md-galal" /></p>
+
+<h2>Problem-solving State</h2>
+    <div
+      align="center"
+      width="100%"
+      style="display: flex; align-items: center; justify-content: space-between"
+    >
+      <img
+        align="left"
+        src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20"
+      />
+      <img
+        align="right"
+        src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif"
+        alt="Coding Animation"
+      />
+    </div>
+    <hr width="100%" />  
