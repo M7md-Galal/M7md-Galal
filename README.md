@@ -37,7 +37,7 @@
 
 <h2>Backend Framework</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,java,dotnet,postgres,mysql,sql-server" alt="Backend Tools">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,postgres,mysql,sql-server" alt="Backend Tools">
 </p>
 
 <h2>Frontend Framework</h2>
