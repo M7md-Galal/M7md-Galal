@@ -41,6 +41,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md-galal&" alt="m7md-galal" /></p>
 
+<h2>Github Trophy</h2>
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=M7md-Galal"
+      width="100%"
+      alt="M7md-Galal"
+    />
+
 <h2>Problem-solving State</h2>
     <div
       align="center"
