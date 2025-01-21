@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/mohamed-galal74/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40">
   </a>
-  <a href="mailto:mohamed754f@gmail.com" target="_blank">
+  <a href="mailto:mohamed.galal.tech@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40">
   </a>
   <a href="https://x.com/m7md_galal0" target="_blank">
