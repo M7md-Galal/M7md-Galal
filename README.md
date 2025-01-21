@@ -50,6 +50,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode,docker" alt="Tools">
 </p>
 
+<h2>Problem-solving State</h2>
+<div align="center" width="100%" style="display: flex; align-items: center; justify-content: space-between;">
+  <img align="left" src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
+  <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
+</div>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7md-galal&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 </p>
@@ -67,10 +73,5 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=M7md-Galal" width="100%" alt="GitHub Trophy">
 </p>
 
-<h2>Problem-solving State</h2>
-<div align="center" width="100%" style="display: flex; align-items: center; justify-content: space-between;">
-  <img align="left" src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
-  <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
-</div>
 
 <hr width="100%">
