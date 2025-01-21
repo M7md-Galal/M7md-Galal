@@ -21,21 +21,33 @@
 <br>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m7md_galal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m7md_galal0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-galal74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-galal74" height="30" width="40" /></a>
-<a href="https://medium.com/@m7md-galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m7md-galal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mo7amed_galal72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mo7amed_galal72" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/m7md-galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m7md-galal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamed-galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-galal" height="30" width="40" /></a>
-<a href="https://discord.gg/m7md_galal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m7md_galal0" height="30" width="40" /></a>
-</p>
+<h2 align="left">Connect with me:</h2>
+<a
+               href="https://www.linkedin.com/in/mohamed-galal74/"
+               target="_blank"
+               ><img
+                 src="https://skillicons.dev/icons?i=linkedin"
+                 alt="LinkedIn"
+                 width="40"
+             /></a>
+             <a href="mohamed754f@gmail.com" target="_blank">
+               <img
+                 src="https://skillicons.dev/icons?i=gmail"
+                 alt="Google"
+                 width="40"
+             /></a>
+             <a href="https://x.com/m7md_galal0" target="_blank">
+               <img
+                 src="https://skillicons.dev/icons?i=twitter"
+                 alt="Twitter"
+                 width="40"
+               />
+             </a>
 
 <h2>Backend Framework</h2>
 <p align="left">
       <img
-        src="https://skillicons.dev/icons?i=c,cs,py,java,dotnet,postgres,mysql,sql"
+        src="https://skillicons.dev/icons?i=c,cs,py,java,dotnet,postgres,mysql,sql-server"
         alt=""
       />
     </p>
@@ -43,7 +55,7 @@
 <h2>Frontend Framework</h2>
 <p align="left">
       <img
-        src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,jquery,angular,figma,xd"
+        src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular"
         alt=""
       />
     </p>
