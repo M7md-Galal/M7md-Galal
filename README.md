@@ -55,7 +55,7 @@
 </div>
 
 <h2>Problem-solving State</h2>
-<div align="center" width="100%" style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center">
   <img align="left" src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
   <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
 </div>
