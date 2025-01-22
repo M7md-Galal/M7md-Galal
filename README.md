@@ -63,11 +63,10 @@
   <div align="center">
     <img
         src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&border_radius=20&show_icons=true&theme=transparent&title_color=800080&icon_color=800080&rank_icon=github&ring_color=800080&text_color=434d58"
-        width="45%"
     />
     <img
         src="https://streak-stats.demolab.com?user=M7md-Galal&border_radius=20&short_numbers=true&stroke=800080&fire=800080&currStreakLabel=800080&ring=800080"
-        alt="mennaSamir" width="45%"
+        alt="M7md-Galal"
     />
 </div>
 
