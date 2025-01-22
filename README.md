@@ -51,9 +51,9 @@
 </p>
 
 <h2>Problem-solving State</h2>
-<div align="center">
+<div>
   <img src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
-  <img src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
+  <img src="Additions/v1.Y2lkPTc5MGI3NjExMTN6Z2xpdjdwbDE0aGw0Znpib3MxcmRycjV6cHpyNHV0a2YyM2JsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coding Animation">
 </div>
 
 <h2>GitHub Stats</h2>
