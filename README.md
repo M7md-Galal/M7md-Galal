@@ -50,10 +50,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode,docker" alt="Tools">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <h2>Problem-solving State</h2>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
@@ -61,12 +57,12 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&show_icons=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M7md-Galal&" alt="GitHub Streak Stats">
-</p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&show_icons=true&locale=en" alt="GitHub Stats">
+</div>
 
 <h2>Github Trophy</h2>
 <p>
