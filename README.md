@@ -61,11 +61,11 @@
 </div>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7md-galal&show_icons=true&locale=en" alt="GitHub Stats">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md-galal&" alt="GitHub Streak Stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M7md-Galal&" alt="GitHub Streak Stats">
 </p>
 
 <h2>Github Trophy</h2>
