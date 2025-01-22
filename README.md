@@ -60,9 +60,9 @@
   <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
 </div>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&show_icons=true&locale=en" alt="GitHub Stats">
+</div>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M7md-Galal&" alt="GitHub Streak Stats">
