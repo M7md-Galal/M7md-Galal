@@ -53,7 +53,7 @@
 <h2>Problem-solving State</h2>
 <div>
   <img src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
-  <img src="Additions/giphy.gif" alt="Coding Animation">
+  <img src="Additions/Coding In The Zone GIF by nounish ⌐◨-◨.gif" alt="Coding Animation">
 </div>
 
 <h2>GitHub Stats</h2>
