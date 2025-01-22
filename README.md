@@ -57,7 +57,10 @@
 
 <h2>Github State</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" style="border-radius: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" 
+       height="150" 
+       alt="languages graph" 
+       style="border-radius: 30px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
 </div>
 
 
