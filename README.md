@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  <div style="display: flex; justify-content: space-between" align="center" width="100%">
+  <div align="center">
     <img
         src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&border_radius=20&show_icons=true&theme=transparent&title_color=800080&icon_color=800080&rank_icon=github&ring_color=800080&text_color=434d58"
         width="45%"
