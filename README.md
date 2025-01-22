@@ -50,14 +50,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode,docker" alt="Tools">
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <h2>Problem-solving State</h2>
 <div align="center" width="100%" style="display: flex; align-items: center; justify-content: space-between;">
   <img align="left" src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
   <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation">
 </div>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7md-galal&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
+
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7md-galal&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
