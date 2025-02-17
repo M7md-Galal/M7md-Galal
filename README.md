@@ -37,17 +37,12 @@
 
 <h2>Backend Framework</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,postgres,mysql,sql-server" alt="Backend Tools">
-</p>
-
-<h2>Frontend Framework</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular" alt="Frontend Tools">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,postgres,mysql" alt="Backend Tools">
 </p>
 
 <h2>Tools</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode,docker" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode" alt="Tools">
 </p>
 
 <h2>Problem-solving State</h2>
