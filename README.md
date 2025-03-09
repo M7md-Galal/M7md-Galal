@@ -55,16 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7md-Galal&border_radius=20&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  <div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=M7md-Galal&border_radius=20&show_icons=true&theme=transparent&title_color=800080&icon_color=800080&rank_icon=github&ring_color=800080&text_color=434d58"
-    />
-</div>
-
-
-<h2>Github Trophy</h2>
-<p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=M7md-Galal" width="100%" alt="GitHub Trophy">
-</p>
-
 <hr width="100%">
