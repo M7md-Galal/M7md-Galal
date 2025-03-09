@@ -30,7 +30,7 @@
   <a href="mailto:mohamed.galal.tech@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40">
   </a>
-  <a href="https://x.com/m7md_galal0" target="_blank">
+  <a href="https://x.com/m_galal00" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40">
   </a>
 </p>
