@@ -15,7 +15,7 @@
 
 - :school: I am a Student at [Faculty of Computers & Informatics Science](http://www.fci.zu.edu.eg/faculty/default) at [Zagazig University](https://www.zu.edu.eg/).
 - :computer: I am a Problem Solver at Leetcode.
-- :student: I’m currently learning Backend Engineer and System Programming.
+- :student: I’m currently learning Backend Engineering and Systems Programming.
 - :nerd_face: Always learning new things.
 - :thinking: I’m currently open for a new job opportunity, this is [MY RESUME]().
 
