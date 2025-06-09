@@ -20,6 +20,7 @@
 - :thinking: I’m currently open for a new job opportunity, this is [MY RESUME]().
 
 <br>
+<br>
 
 <h2 align="left">Connect With Me:</h2>
 <p>
