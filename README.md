@@ -15,7 +15,7 @@
 
 - :school: I am a Student at [Faculty of Computers & Informatics Science](http://www.fci.zu.edu.eg/faculty/default) at [Zagazig University](https://www.zu.edu.eg/).
 - :computer: I am a Problem Solver at Leetcode.
-- :student: I’m currently learning Backend Engineering and Systems Programming.
+- :student: I’m currently learning Backend Engineering and Kernel Development.
 - :nerd_face: Always learning new things.
 - :thinking: I’m currently open for a new job opportunity, this is [MY RESUME]().
 
@@ -34,13 +34,4 @@
   </a>
 </p>
 
-<h2>Technologies</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,postgres,mysql" alt="Backend Tools">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,notion,clion,visualstudio,vscode" alt="Tools">
-</p>
 
-<h2>Problem-Solving State</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mohamed-galal?radius=20" alt="Leetcode Stats">
-</div>
