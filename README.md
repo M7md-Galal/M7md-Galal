@@ -13,11 +13,11 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- :school: I am a Student at [Faculty of Computers & Informatics Science](http://www.fci.zu.edu.eg/faculty/default) at [Zagazig University](https://www.zu.edu.eg/).
-- :computer: I am a Problem Solver at Leetcode.
-- :student: I’m currently learning Backend Engineering and Kernel Development.
-- :nerd_face: Always learning new things.
-- :thinking: I’m currently open for a new job opportunity, this is [MY RESUME]().
+- 🎓 Final-year Computer Science student with a strong interest in **Backend Development** and **Kernel Programming**  
+- 🔧 Currently building projects using **ASP.NET Core** and **Go**, while studying low-level system programming in **C**  
+- 🚀 Passionate about understanding how systems work — from hardware to high-level APIs  
+- 📚 Self-learner focused on academic CS courses and contributing to **open-source** projects
+- 📢 I’m currently open for a new job opportunity — here is my [**RESUME**](https://your-resume-link.com).
 
 <br>
 <br>
