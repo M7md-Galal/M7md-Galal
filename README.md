@@ -17,7 +17,7 @@
 - 🔧 Currently building projects using **ASP.NET Core** and **Go**, while studying low-level system programming in **C**  
 - 🚀 Passionate about understanding how systems work — from hardware to high-level APIs  
 - 📚 Self-learner focused on academic CS courses and contributing to **open-source** projects
-- 📢 I’m currently open for a new job opportunity — here is my [**RESUME**](https://your-resume-link.com).
+- 📢 I’m currently open for a new job opportunity — here is my [**RESUME**]().
 
 <br>
 <br>
