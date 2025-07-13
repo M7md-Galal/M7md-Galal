@@ -20,7 +20,7 @@
 - 📢 Open to job opportunities — [**View My Resume**]()
 
 <br>
-
+<br>
 
 <h2 align="left">Connect With Me:</h2>
 <p>
