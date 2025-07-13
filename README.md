@@ -13,11 +13,11 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🎓 Final-year Computer Science student with a strong interest in **Backend Development** and **Kernel Programming**  
-- 🔧 Currently building projects using **ASP.NET Core** and **Go**, while studying low-level system programming in **C**  
-- 🚀 Passionate about understanding how systems work — from hardware to high-level APIs  
-- 📚 Self-learner focused on academic CS courses and contributing to **open-source** projects
-- 📢 I’m currently open for a new job opportunity — here is my [**RESUME**]().
+- 🎓 Final-year Computer Science student
+- 💻 Backend Developer (learning .NET Core & Go)
+- 🛠️ Exploring Kernel Development using C
+- 🌱 Passionate about open source and building real-world projects.
+- 📢 Open to job opportunities — [**View My Resume**]()
 
 <br>
 <br>
